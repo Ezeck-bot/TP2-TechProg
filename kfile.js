@@ -1,4 +1,4 @@
-let project = new Project('monprojet');
+let project = new Project('TP2-TechProg');
 
 project.kore = false;
 project.cmd = true;
